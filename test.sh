@@ -1,8 +1,5 @@
 Hi,
 pull request test 
-test
-
-Stash command
 
 This is test file to check git commands
 
