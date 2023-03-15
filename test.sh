@@ -1,7 +1,5 @@
-Hi, 
-test
-
-Stash command
+Hi,
+pull request test 
 
 This is test file to check git commands
 
