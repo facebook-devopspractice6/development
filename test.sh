@@ -1,4 +1,6 @@
-Hi,
+Hi, 
+
+Stash command
 
 This is test file to check git commands
 
